@@ -7,19 +7,20 @@
 </p>
 
 <p align="center">
-  <!-- 연락/링크 버튼 (원하는 것만 남기기) -->
-  <a href="wkdqufl6982@gachon.ac.kr"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/byeori-jang"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <!-- <a href="YOUR_BLOG_URL"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=tistory&logoColor=white"/></a> -->
-  <!-- <a href="YOUR_NOTION_URL"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=notion&logoColor=white"/></a> -->
+  <a href="mailto:wkdqufl6982@gachon.ac.kr">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/byeori-jang">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## ✨ About me
 - 🎓 가천대 컴퓨터공학과 (졸업예정)  
-- 📊 관심: 데이터 분석, 머신러닝, 헬스케어 데이터, 추천/세그먼트 분석  
-- 🛠️ 사용: Python · Pandas · SQL · Scikit-learn · Tableau (필요시 추가)  
+- 📊 관심: 데이터 분석, 머신러닝, 헬스케어 데이터, 추천·세그먼트 분석  
+- 🛠️ 사용: Python · Pandas · **SQL** · Scikit-learn · Tableau  
 - 🔭 요즘 하는 것: **Healthcare 폴더별 데이터셋 분석 프로젝트** 꾸준히 업로드
 
 ---
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white"/>
