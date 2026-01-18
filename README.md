@@ -1,7 +1,7 @@
 <!-- 프로필 상단 배너 (원하면 이미지 링크로 교체) -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&height=180&text=Byeori%20Jang&fontAlign=50&fontAlignY=35&desc=Data%20%26%20ML%20Projects&descAlign=50&descAlignY=60) -->
 
-<h1 align="center">Hi there 👋 I'm Byeori</h1>
+<h1 align="center">Hi  👋 I'm Byeori</h1>
 <p align="center">
 
 </p>
