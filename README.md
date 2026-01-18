@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there 👋 I'm Byeori</h1>
 <p align="center">
-  데이터로 문제를 정의하고, 모델로 검증하고, 결과를 서비스 관점으로 정리하는 걸 좋아해요.
+
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 ---
 
 ## ✨ About me
-- 🎓 가천대 컴퓨터공학과 (졸업예정)  
-- 📊 관심: 데이터 분석, 머신러닝, 헬스케어 데이터, 추천·세그먼트 분석  
+- 🎓 가천대 컴퓨터공학과
+- 📊 관심: 데이터 분석, 머신러닝, 헬스케어 데이터 
 - 🛠️ 사용: Python · Pandas · **SQL** · Scikit-learn · Tableau  
 - 🔭 요즘 하는 것: **Healthcare 폴더별 데이터셋 분석 프로젝트** 꾸준히 업로드
 
